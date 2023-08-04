@@ -6,11 +6,10 @@
 #    By: proberto <proberto@student.42sp.org.br>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/06/25 15:00:00 by proberto          #+#    #+#              #
-#    Updated: 2023/07/23 19:39:54 by proberto         ###   ########.fr        #
+#    Updated: 2023/08/04 00:35:32 by proberto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-# DOMAIN=localhost
 DOMAIN=proberto.42.fr
 COMPOSE=srcs/docker-compose.yml
 VOL_DIR=~/proberto
