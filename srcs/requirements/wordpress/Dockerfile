@@ -13,9 +13,7 @@ RUN apk update && apk add --no-cache php81-fpm php81-json php81-curl php81-xml \
 	php81-imap \
 	php81-cgi \
 	fcgi \
-	# php81-xmlrpc 
 	php81-posix \
-	# php81-mcrypt 
 	php81-ldap \
 	php81-simplexml \
     && rm /etc/php81/php-fpm.d/www.conf;
