@@ -402,7 +402,7 @@ CREATE TABLE `wp_users` (
 
 LOCK TABLES `wp_users` WRITE;
 /*!40000 ALTER TABLE `wp_users` DISABLE KEYS */;
-INSERT INTO `wp_users` VALUES (1,'proberto','$P$BDcihmiGIUSdaZn3Uq92r.9xoU9cl00','proberto','proberto@student.42sp.org.br','https://proberto.42.fr','2022-11-24 11:44:35','',0,'proberto'),(2,'Paulo','bbb8aae57c104cda40c93843ad5e6db8','proberto','proberto@example.com','https://proberto.42.fr','2022-11-23 11:11:11','',0,'Paulo');
+INSERT INTO `wp_users` VALUES (1,'proberto','$P$BDcihmiGIUSdaZn3Uq92r.9xoU9cl00','proberto','proberto@student.42sp.org.br','https://proberto.42.fr','2023-08-01 11:44:35','',0,'proberto'),(2,'marvin','$P$BDcihmiGIUSdaZn3Uq92r.9xoU9cl00','marvin','marvin@example.com','https://marvin.42.fr','2023-08-01 11:11:11','',0,'marvin');
 /*!40000 ALTER TABLE `wp_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
